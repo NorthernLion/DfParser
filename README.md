@@ -15,5 +15,5 @@ for list of commands write help, when running the application.
 
 ## Code
 
-The java code is in folder /src/dfparser/
-The tests are in folder /test/dfparser/
+* The java code is in folder /src/dfparser/
+* The tests are in folder /test/dfparser/
